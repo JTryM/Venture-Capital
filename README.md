@@ -1,2 +1,2 @@
 # Venture-Capital
-Organización con recursos provenientes del Private Equity (33)
+Organización con 0 recursos provenientes del Private Equity (33)
