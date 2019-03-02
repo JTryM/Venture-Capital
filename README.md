@@ -1,2 +1,2 @@
 # Venture-Capital
-Organización en búsqueda de recursos provenientes del Private Equity 
+Organización en búsqueda de recursos
