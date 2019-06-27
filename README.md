@@ -1,2 +1,2 @@
 # Venture-Capital
-Organización en búsqueda de recursos
+Organización net present value
