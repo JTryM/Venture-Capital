@@ -1,6 +1,7 @@
 # Venture-Capital
 Organización net present value
  full io cookies cloud stack
+Software Quality Assurance (SQA)
 
 Software engineering Standards
 Technical reviews and audits
